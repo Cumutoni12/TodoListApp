@@ -45,11 +45,11 @@ For JavaScript you should run " npx eslint " on your terminal in root directory 
 N/A
 
 ## Author
-## KAWEESI MATIA
+## Clarisse Umutoni
 
-- GitHub: [@Kaweesi-Matia](https://github.com/@Kaweesi-Matia)
-- Twitter: [@kaweesimatia](https://twitter.com/@kaweesimatia)
-- LinkedIn: [@Kaweesi Matia](https://linkedin.com/in/@KaweesiMatia)
+- GitHub: [@umutoni Clarisse](https://github.com/Cumutoni12)
+- Twitter: [@Umutoni Clarisse](https://x.com/cumutoni12)
+- LinkedIn: [@Umutoni Clarisse](https://www.linkedin.com/in/clarisse-umutoni/)
 
 
 ## 🤝 Contributing
@@ -61,11 +61,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse
-
-## 📝 License
-
-This project is [MIT](./License.md) licensed.
